@@ -1,3 +1,10 @@
+
+
 .accordion-item {
-    display: flex;
+    display: flex
+}
+
+
+.accordion-button::after {
+    display: none;
 }
